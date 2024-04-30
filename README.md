@@ -270,15 +270,9 @@ https://www.vim.org/docs.php
 Visual Studio Code
 https://code.visualstudio.com/docs
 
-## Licencia
-
-Para errores, preguntas y discusiones, utilice:  
-
 
 ## Contribuciones
 
-Alfredo Olmedo
-ao@alfredoolmedo.com
 
 ## Licencia
 
