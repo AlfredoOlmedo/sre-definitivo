@@ -21,9 +21,9 @@
 
 ## Introducción
 
-La idea de este repositorio es recopilar información y recursos a través de mi experiencia. Aunque el enfoque principal del repositorio es en el área de infraestructura, espero que sea útil para todos. Por último, si desean contribuir, ¡hagan un PR!
+La idea de este repositorio es recopilar información y recursos para Linux, SysAdmin, Site Reliability Engineer, DevOps, DevSecOps básicamente para el área de infraestructura, espero que sea útil para todos. Por último, si desean contribuir, ¡hagan un PR!
 
-Te Deseo una carrera en crecimiento y éxito constante.
+Les deseo una carrera en crecimiento y éxito constante.
 
 ## Descripción
 
