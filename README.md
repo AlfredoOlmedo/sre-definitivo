@@ -1,4 +1,5 @@
 # SRE | DevOps | DevSecOps Roadmap
+# En Desarrollo
 
 ## Índice
 
@@ -20,7 +21,7 @@
 
 ## Introducción
 
-¡Bienvenidos a este Repositorio! Aquí he trabajado arduamente para recopilar información y recursos a través de mi experiencia. Aunque el enfoque principal del repositorio es en el área de infraestructura, espero que sea útil para todos. Por último, si desean contribuir, ¡hagan un PR!
+La idea de este repositorio es recopilar información y recursos a través de mi experiencia. Aunque el enfoque principal del repositorio es en el área de infraestructura, espero que sea útil para todos. Por último, si desean contribuir, ¡hagan un PR!
 
 Te Deseo una carrera en crecimiento y éxito constante.
 
@@ -35,7 +36,7 @@ Repositorio con información y recursos para emprender o continuar en el camino 
 ## Contenido
 
 Linux   
-[Introducción a Linux](#licencia)   
+[Introducción a Linux](linux/)   
 [Ingrese los primeros comandos](#licencia)   
 [Comandos de superusuario](#licencia)   
 [Navegando con comandos](#licencia)   
@@ -64,11 +65,11 @@ Linux
 [Los comandos del editor Vi](#licencia)   
 
 SRE     
+[Programación](programacion/programacion.md)    
 [Sistemas Operativos](#licencia)    
 [CLI](#licencia)   
-[Version Control systems](#licencia) 
+[Sistema de Control de Versiones](#licencia)     
 [Redes](#licencia)   
-[Programación](#licencia)
 [Arquitectura](#licencia)
 [Infraestructura como Código](#licencia)   
 [Contenedores](#licencia)   
@@ -84,7 +85,7 @@ SRE
 [Entiende el negocio](#licencia)   
 
 DevOps  
-[Plan](#licencia)   
+[Plan](devops/plan.md)   
 [Code](#licencia)   
 [Build](#licencia)   
 [Test](#licencia)   
@@ -94,7 +95,7 @@ DevOps
 [Monitor](#licencia)   
 
 DevSecOps  
-[Plan and Develop](#licencia)   
+[Plan and Develop](devsecops/plan&desarrollo.md)   
 [Commit the code](#licencia)   
 [Build and Test](#licencia)   
 [Go to production](#licencia)   
